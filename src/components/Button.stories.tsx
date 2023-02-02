@@ -20,7 +20,7 @@ const ButtonStory = {
 
 export default ButtonStory;
 export const PrimaryButton = () => (
-  <Button className="bg-blue-600">Hello</Button>
+  <Button className="bg-blue-600">Hello World!</Button>
 );
 export const SecondaryButton = () => (
   <Button className="bg-red-600">Hello World!</Button>
